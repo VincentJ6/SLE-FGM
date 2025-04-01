@@ -1,6 +1,4 @@
-* {
-  text-align: center;
-}
+
 
 
 .navbar {
@@ -35,4 +33,11 @@
 
 .blue{
   color: darkblue;
+}
+
+
+
+
+footer {
+  background-color: grey;
 }
