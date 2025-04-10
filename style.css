@@ -4,7 +4,6 @@
 .navbar {
   overflow: hidden;
   background-color: white;
-  position: fixed;
   top: 0;
   width: 100%;
 }
@@ -40,4 +39,14 @@
 
 footer {
   background-color: grey;
+}
+
+.slide{
+  height: 900px;
+  width: 900px;
+  text-align: center;
+}
+
+.top{
+  margin-top: 10%;
 }
